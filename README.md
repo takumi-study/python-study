@@ -1,4 +1,4 @@
-# PYthon Study
+# Python Study
 
 Thisrepository is my Python learning record.
 
