@@ -115,5 +115,5 @@ r_new = (r1 + r2)/2
 print(r1, r_new, r2)
 r_new_list.append(r_new)
 print(r_new_list)
-diff_list.append(r1 - r2)
+diff_list.append(abs(r1 - r2))
 print(diff_list)
